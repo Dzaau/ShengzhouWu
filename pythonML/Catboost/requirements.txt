@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+joblib
+shap
+catboost
+optuna
+openpyxl
+tqdm
+jupyter
+ipykernel
