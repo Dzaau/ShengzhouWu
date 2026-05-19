@@ -47,7 +47,7 @@ Run `CatBoost_workflow.py` top-to-bottom (or execute cells with `#%%` blocks):
    - `df_performance.csv`
    - `df_performance_all.csv`
    - `df_raw_shap.csv`
-   - `full_shap_interaction_features.csv` (not analysized in this study)
+   - `full_shap_interaction_features.csv` (not analyzed in this study)
 
 ## Notes on Imbalanced Target
 
@@ -68,7 +68,7 @@ Artifacts are saved to:
 
 - `pythonML/catboost_grouped_20260409/` 
 
-Model and SHAP files follow:
+Model and SHAP files follow (not included in this repository):
 
 - `models/cb_model_Rep*_Fold*.joblib`
 - `shap_values/cb_shap_values_Rep*_Fold*.npz`
